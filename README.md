@@ -29,7 +29,7 @@ O projeto está organizado da seguinte maneira:
 
 ## Estrutura do Código
 
-- **components/{Arquivo}.robot**: Arquivo contendo as variáveis de ambiente e configurações globais.
+- **components/{Arquivo}.robot**: Arquivo contendo as variáveis das Pages
 
 - **features/test_feature.robot**: Arquivo Cucumber contendo os cenários de teste.
 
